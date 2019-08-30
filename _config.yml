@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Just Do It"
+title                    : "Just Do 👨‍💻"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junyong Jeong"
-description              : "이 사람은 가끔 글을 씁니다."
+description              : "KEEP GOING"
 url                      : https://jundragon.github.io
 baseurl                  : ""
 repository               : "jundragon/jundragon.github.io"
@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Jundragon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아주 가끔 글을 올리는 사람"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "KEEP GOING :fire:"
   location         : "Republic of Korea"
   email            :
   links:
