@@ -13,21 +13,20 @@ toc: True
 toc_sticky: true
 toc_label: "About Me"
 ---
-
 ![Keep Calm](/assets/images/about/keep-calm.png){: width="30%" .align-center}
 
-
-# I am a Developer 👨‍💻
-키보드 두드리는 것을 좋아해서 개발을 하고 있습니다
+# I am a Developer 
+👨‍💻
 
 ## Who am i ?
-이것저것 관심이 많은 개발자입니다
+이것저것 관심이 많은 개발자
 
 **TIL (Today I Learned)**
-매일 공부한 것을 적고 있습니다
+매일 공부한 것을 적고 있음
 
-동네에서 노는 걸 좋아하는 집돌이 입니다
+동네에서 노는 걸 제일 좋아하는 동네러버
 
+그중에서도 집에서 노는게 제일 좋음 (집돌이)
 
 ## 주요 스킬 & 포트폴리오
 ### WEB
@@ -40,12 +39,14 @@ toc_label: "About Me"
  - [Tensorflow](#)
  - [PyTorch](#)
 
+---
 ![Minimal Life](/assets/images/about/minimal-life.png){: width="50%" .align-center}
 
 # Minimal Life 👀
+
 ㅁㄴㅁㄹㅇㅍ
 
-MINIMALISM, SIMPLISM 에 관심이 많습니다
+MINIMALISM, SIMPLISM
 
 아무것도 없는 방에서 살고 싶습니다
 
@@ -55,5 +56,5 @@ MINIMALISM, SIMPLISM 에 관심이 많습니다
 
 실제 취미는 보드게임 입니다 :)
 
-## 공부
+## 요즘
 요즘은 영어공부를 하고 있습니다
