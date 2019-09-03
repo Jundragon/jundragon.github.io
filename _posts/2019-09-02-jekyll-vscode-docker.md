@@ -26,7 +26,7 @@ toc_label: "목차"
 
 마음에 드는 테마를 골랐다면, 해당 테마의 git 저장소에 들어가서 자신의 저장소로 fork 합니다.
 
-✔ 저는 minimal-mistakes 골랐습니다.
+✔ 저는 minimal-mistakes 를 골랐습니다.
 
 ### step 2. 기본 설정하기
 
