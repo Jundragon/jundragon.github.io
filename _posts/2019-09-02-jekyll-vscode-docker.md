@@ -100,12 +100,10 @@ Docker tab 으로 이동 하면 container 가 실행 된 것을 확인 할 수 �
 
 ![vscode-docker-restart.jpg](/assets/images/posts/2019-09-02/vscode-docker-restart.jpg)
 
-그밖에 `View Logs` 버튼은 컨테이너의 로그를 볼 수 있고,
-
+그밖에 `View Logs` 버튼은 컨테이너의 로그를 볼 수 있고,  
 `Attach Shell` 버튼은 컨테이너에 접속해서 명령을 수행 할 수 있다.
 
-만약, windows 10 pro 이하 버전에서 docker 를 설치 했다면 docker toolbox 로 실행 할 텐데, 
-
+만약, windows 10 pro 이하 버전에서 docker 를 설치 했다면 docker toolbox 로 실행 할 텐데,  
 그런 경우에는 실행을 확인 할 때 `[localhost:4000](http://localhost:4000)` 이 아니라 `http://192.168.99.100:4000` (linux virtualbox) 로 접속해야 한다.
 
 linux 의 경우에는 뭐... 별 문제 없을듯 (아마도)
