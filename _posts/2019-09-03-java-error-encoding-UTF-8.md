@@ -32,11 +32,11 @@ IDE의 환경 설정이나 build.gradle 에서 encoding 옵션을 변경하는 �
 - IntelliJ
 - Gradle
 
-우선 intelij 기준으로 빌드 에러 터미널을 보면 오류가 난 소스코드로 이동이 가능하다.
+우선 intellij 기준으로 빌드 에러 터미널을 보면 오류가 난 소스코드로 이동이 가능하다.
 
 ![intellij-error.jpg](/assets/images/posts/2019-09-03/intellij-error.jpg){: .align-center}
 
-소스코드로 가면 친절한 InteliJ (갓갓갓!!) 가 인코딩을 변경하는 것이 어떻겠냐는 안내를 해준다.
+소스코드로 가면 친절한 IntelliJ (갓갓갓!!) 가 인코딩을 변경하는 것이 어떻겠냐는 안내를 해준다.
 
 ![intellij-encoding.jpg](/assets/images/posts/2019-09-03/intellij-encoding.jpg){: .align-center}
 
@@ -56,7 +56,7 @@ jenkins 의 빌드 환경은 linux 였기 때문에...
 
 파일 자체의 인코딩을 `UTF-8` 로 변경해 주어야 했다.
 
-방법은 아까 InteliJ의 안내 화면에서 `x-windows-949` 인코딩으로 로드하고 (Reload in 'x-windows-949)
+방법은 아까 IntelliJ의 안내 화면에서 `x-windows-949` 인코딩으로 로드하고 (Reload in 'x-windows-949)
 
 ![reload-x-windows-949.png](/assets/images/posts/2019-09-03/reload-x-windows-949.png){: .align-center}
 
