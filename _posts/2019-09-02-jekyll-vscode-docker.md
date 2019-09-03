@@ -81,7 +81,7 @@ clone 한 프로젝트 디렉토리에 `docker-compose.yml` 을 생성하고 내
 
 ## step 3. vscode 의 docker 플러그인 설치
 
-![vscode-docker-plugin.jpg](/assets/images/posts/2019-09-02/vscode-docker-plugin.jpg)
+![vscode-docker-plugin.jpg](/assets/images/posts/2019-09-02/vscode-docker-plugin.jpg){: .align-center}
 
 플러그인 설치 후, `docker-compose.yml` 파일에서 마우스 오른쪽 클릭하면
 
@@ -89,17 +89,17 @@ clone 한 프로젝트 디렉토리에 `docker-compose.yml` 을 생성하고 내
 - Compose Restart
 - Compose Up **← 선택**
 
-![vscode-docker.jpg](/assets/images/posts/2019-09-02/vscode-docker.jpg)
+![vscode-docker.jpg](/assets/images/posts/2019-09-02/vscode-docker.jpg){: .align-center}
 
 Docker tab 으로 이동 하면 container 가 실행 된 것을 확인 할 수 있음
 
-![vscode-docker-container.jpg](/assets/images/posts/2019-09-02/vscode-docker-container.jpg)
+![vscode-docker-container.jpg](/assets/images/posts/2019-09-02/vscode-docker-container.jpg){: .align-center}
 
 이제 [`localhost:4000`](http://localhost:4000) 으로 접속하면 블로그가 실행 되었다.
 
 게시글을 작성하거나 새로 업로드하면 자동으로 jekyll 이 재시작하지만, 설정 파일이 변경되어도 jekyll을 재시작 해주지 않으므로 필요하다면 컨테이너를 오른쪽 클릭해서 `restart` 버튼을 누른다.
 
-![vscode-docker-restart.jpg](/assets/images/posts/2019-09-02/vscode-docker-restart.jpg)
+![vscode-docker-restart.jpg](/assets/images/posts/2019-09-02/vscode-docker-restart.jpg){: .align-center}
 
 그밖에 `View Logs` 버튼은 컨테이너의 로그를 볼 수 있고,  
 `Attach Shell` 버튼은 컨테이너에 접속해서 명령을 수행 할 수 있다.
