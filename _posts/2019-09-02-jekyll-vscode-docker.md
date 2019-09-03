@@ -2,8 +2,8 @@
 title: "Windows 10 에서 Jekyll (blog) 개발 환경을 셋팅하는 간편한 방법"
 last_modified_at: 2019-09-02T00:00:00+09:00
 categories:
-  - Jekyll
-  - blog  
+  - jekyll
+  - blog
 tags:
   - setting
 toc: true
