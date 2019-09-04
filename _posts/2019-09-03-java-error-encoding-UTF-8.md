@@ -40,16 +40,12 @@ IDE의 환경 설정이나 build.gradle 에서 encoding 옵션을 변경하는 �
 
 ![intellij-encoding.jpg](/assets/images/posts/2019-09-03/intellij-encoding.jpg){: .align-center}
 
-그렇다... 보통 이렇게 변경하면 IDE 의 옵션을 변경해주는 것이다.
-
-그것도 이 파일만!
-
-이렇게 해결되는 가 했으나
-
+그렇다... 보통 이렇게 변경하면 IDE 의 옵션을 변경해주는 것이다.  
+그것도 이 파일만!  
+이렇게 해결되나 했으나  
 배포하고 있는 Jenkins 에서는 동일한 빌드 오류로 배포가 되지 않았다.
 
-이유는 이러하였다.
-
+왜냐하면,  
 jenkins 의 빌드 환경은 linux 였기 때문에...
 
 # 해결방법
@@ -64,8 +60,7 @@ jenkins 의 빌드 환경은 linux 였기 때문에...
 
 ![hangul-comment.png](/assets/images/posts/2019-09-03/hangul-comment.png){: .align-center}
 
-하단의 인코딩 convert 버튼을 (명칭이 이게 맞는지는 잘 모르겠다) 누르고
-
+하단의 인코딩 convert 버튼을 (명칭이 이게 맞는지는 잘 모르겠다) 누르고  
 `UTF-8` 을 선택하면 파일의 일의 인코딩이 `x-windows-949` 에서 `UTF-8` 로 변경된다.
 
 ![intellij-convert-encoding.jpg](/assets/images/posts/2019-09-03/intellij-convert-encoding.jpg){: .align-center}
