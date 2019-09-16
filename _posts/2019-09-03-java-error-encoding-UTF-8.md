@@ -10,7 +10,7 @@ tags:
   - build
 toc: true
 toc_sticky: true
-toc_label: "목차"
+toc_label: "shortcut"
 ---
 spring-boot 프로젝트를 `debug` 로 실행하면 동작을 하지만 `gradle` 로 빌드를 하면 다음과 같은 인코딩 오류가 발생하였다.
 

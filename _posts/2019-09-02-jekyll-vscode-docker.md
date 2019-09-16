@@ -9,7 +9,7 @@ tags:
   - docker
 toc: true
 toc_sticky: true
-toc_label: "목차"
+toc_label: "shortcut"
 ---
 # Docker 로 Jekyll 개발 환경 만들기
 
