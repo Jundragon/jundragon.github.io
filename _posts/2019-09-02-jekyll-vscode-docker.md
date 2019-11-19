@@ -2,8 +2,7 @@
 title: "VSCODE 에서 DOCKER 로 Jekyll 블로그 로컬 환경 셋팅하기"
 last_modified_at: 2019-09-02T00:00:00+09:00
 categories:
-  - web
-  - blog
+  - setup
 tags:
   - jekyll
   - docker
@@ -102,7 +101,7 @@ Docker tab 으로 이동 하면 container 가 실행 된 것을 확인 할 수 �
 
 ![vscode-docker-container.jpg](/assets/images/posts/2019-09-02/vscode-docker-container.jpg){: .align-center}
 
-이제 [`localhost:4000`](http://localhost:4000) 으로 접속하면 블로그가 실행되었다
+이제 [`localhost:4000`](http://localhost:4000){: target="_blank"} 으로 접속하면 블로그가 실행되었다
 
 게시글을 작성하거나 수정하는 컨텐츠 변경은 자동으로 jekyll 이 감지하고 재시작하여 반영하지만 설정 파일의 변경에는 따로 재시작 해주지 않으므로
 수정사항이 반영되지 않는다면 컨테이너를 오른쪽 클릭해서 `restart` 버튼을 누른다
