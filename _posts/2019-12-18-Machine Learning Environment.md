@@ -12,19 +12,18 @@ toc_label: "shortcut"
 
 머신 러닝을 위한 셋팅
 
-## bash
+## Linux
 
 `venv` 가상환경 생성
 
 ```bash
-conda create -n venv python=3
+python3 -m virtualenv venv
 ```
 
 `venv` 가상환경 활성화
 
 ```bash
-conda activate venv
-pip install --upgrade pip
+source venv/bin/activate
 ```
 
 `requirement.txt` 프로젝트의 라이브러리 설치
@@ -37,6 +36,23 @@ pip install -r requirements.txt
 
 ```bash
 pip freeze > requirements.txt
+```
+
+## Windows 10
+
+Anaconda Prompt를 관리자 권한으로 실행
+
+`venv` 가상환경 생성
+
+```anaconda
+conda create -n venv python=3
+```
+
+`venv` 가상환경 활성화
+
+```anaconda
+conda activate venv
+pip install --upgrade pip
 ```
 
 ## Docker
