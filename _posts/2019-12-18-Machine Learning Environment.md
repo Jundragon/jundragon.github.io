@@ -44,13 +44,13 @@ Anaconda Prompt를 관리자 권한으로 실행
 
 `venv` 가상환경 생성
 
-```anaconda
+```powershell
 conda create -n venv python=3
 ```
 
 `venv` 가상환경 활성화
 
-```anaconda
+```powershell
 conda activate venv
 pip install --upgrade pip
 ```
