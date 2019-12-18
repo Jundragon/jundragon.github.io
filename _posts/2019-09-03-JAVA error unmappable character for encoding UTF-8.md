@@ -6,7 +6,7 @@ categories:
 tags:
   - java
   - spring
-  - build
+  - build error
 toc: true
 toc_sticky: true
 toc_label: "shortcut"

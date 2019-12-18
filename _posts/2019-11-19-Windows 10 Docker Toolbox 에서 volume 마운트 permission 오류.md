@@ -5,6 +5,7 @@ categories:
   - trouble-shooting
 tags:
   - docker
+  - permission error
 toc: true
 toc_sticky: true
 toc_label: "shortcut"
@@ -29,6 +30,6 @@ jekyll docker 에서 파일을 생성할 때, docker 를 실행하는 가상 os 
 
 ## 문제 해결
 
-[Docker Toolbox 에서 D 드라이브 볼륨 경로 지정하기](https://velog.io/@public_danuel/volume-path-in-docker){: target="_blank"}
+[Docker Toolbox 에서 D 드라이브 볼륨 경로 지정하기](https://velog.io/@public_danuel/volume-path-in-docker){: target="\_blank"}
 
 위 링크의 방법을 이용하여 해결하였다
