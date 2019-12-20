@@ -3,6 +3,7 @@ title: "VSCODE 에서 DOCKER 로 Jekyll 블로그 로컬 환경 셋팅하기"
 last_modified_at: 2019-09-02T00:00:00+09:00
 categories:
   - environment
+  - web
 tags:
   - jekyll
   - docker

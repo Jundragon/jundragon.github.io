@@ -3,6 +3,7 @@ title: "Windows 10 Docker Toolbox 에서 volume 마운트 permission 오류"
 last_modified_at: 2019-11-19T21:00:00+09:00
 categories:
   - trouble-shooting
+  - web
 tags:
   - docker
   - permission error
