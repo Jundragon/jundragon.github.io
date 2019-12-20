@@ -3,8 +3,11 @@ title: "Machine Learning Environment"
 last_modified_at: 2019-12-18T21:00:00+09:00
 categories:
   - environment
+  - ml
 tags:
-  - ML
+  - windows10
+  - linux
+  - docker
 toc: true
 toc_sticky: true
 toc_label: "shortcut"
